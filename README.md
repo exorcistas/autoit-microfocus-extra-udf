@@ -14,9 +14,7 @@ It uses exposed COM objects to communicate to emulator on application level.
 ```Note, that not all functionality might be mapped or updated in current published version.```
 
 ## Prerequisites <a name = "prerequisites"></a>
-```
 User must have 'MicroFocus/Attachmate Extra!' 32-bit application installed with COM objects exposed.
-```  
 
 ## Installation <a name = "installation"></a>
 Simply copy ```.au3``` files to your development directory and use ```#include``` to point to these files in the source code.  
